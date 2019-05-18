@@ -3,6 +3,8 @@ A Python implementation of the algorithm described in paper
 Radu Dogaru, Ioana Dogaru, "Optimized Super Fast Support Vector Classifiers Using Python and Acceleration of RBF Computations",  (2018) ;
 https://ieeexplore.ieee.org/document/8484742 
 
+Please cite the above article when using this code. 
+
 FEATURES: 
 There is no learning in the output layer, only a relatively fast selection of support vectors in a RBF-layer optimized for speed. 
 Faster than SVM, particulary for large dataset. Unlike SVM the "training" (vector support selection) time is almost linear 
